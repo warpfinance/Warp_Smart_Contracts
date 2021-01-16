@@ -2,7 +2,7 @@
 
 Here are the following contracts deployed for our platform, located on Etherscan as well:
 
-swap lp oracle:0xb61570a4c330fdda8b42ad25b307f95011b89367;Link
+swap lp oracle:0xb61570a4c330fdda8b42ad25b307f95011b89367;
 
 WARP_CONTROL:0x8E0Fa7c5C7Fa86A059e865A90b50a90351df716a;
 
